@@ -41,7 +41,7 @@ A secure, Dockerized API for remote transceiver and SDR control with role-based 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/transceiver-control.git
+   git clone https://github.com/fiquett/transceiver-control.git
    cd transceiver-control
    ```
 
